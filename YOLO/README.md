@@ -1,4 +1,3 @@
-# DML
 # Testing the YOLO object detection API
 
 Clone this project
