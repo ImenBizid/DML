@@ -16,7 +16,7 @@ Define these variables
     export variables_INPUT_IMAGE=${INPUT_IMAGE}
     export variables_OUTPUT_IMAGE=${OUTPUT_IMAGE}
 
-Build your image FROM DML/YOLO
+Build your Docker image FROM DML/YOLO
 
     Docker build -t $variables_DOCKER_IMAGE_NAME .
 
